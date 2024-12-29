@@ -3,8 +3,8 @@
 
 Studied B.Sc. in Computer Science & Engineering at Amercian International University-Bangladesh (AIUB). I am very passionate about game development. I love solving problem. 
 
-Junior Game Developer at Gameloops
-Research Intern at Advanced Machine Intelligence Research Lab
+Junior Game Developer at Gameloops.
+Research Intern at Advanced Machine Intelligence Research Lab.
 
 Skills: C++ / C# / Python
 - I am currently working and learning...
