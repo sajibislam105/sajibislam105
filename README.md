@@ -1,6 +1,11 @@
 ### Hi there 👋, I am Sajib
 #### Developer | Researcher
 
+Currently doing an Erasmus Mundus Joint Master Program Cutting-Edge Technologies for Sustainable Agriculture (SUSTAGRI)
+  . Semester 1: Public University of Navarre (UPNA), Spain
+  . Semester 2: Universidade de Trás-os-Montes e Alto Douro (UTAD), Portugal
+  . Semester 3: Agricultural University of Athens (AUA), Greece
+
 Studied B.Sc. in Computer Science & Engineering at Amercian International University-Bangladesh (AIUB).
 
 Skills: C++ / C# / Python
